@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DebugPOS.Properties" GeneratedClassName="GlobalSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IPorCOM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.232.130.103</Value>
+    </Setting>
+    <Setting Name="PortOrBaud" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1337</Value>
+    </Setting>
+    <Setting Name="PrintReceiptToggle" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SendReceiptToggle" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EnableDialog" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EnableExternalNetworking" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LogMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="IntegrationKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ServerEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LocalIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LocalPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1338</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
